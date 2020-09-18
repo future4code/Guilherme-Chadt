@@ -1,0 +1,87 @@
+a {
+    color:yellowgreen;
+    margin: 0px 5px;
+    display:inline;
+    text-decoration:none;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+
+a:hover{
+    color:black;
+}
+
+h1{
+    color: yellow;
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+h1:hover{
+
+    color: black;
+}
+
+h2{
+    color:yellow;
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+    
+
+}
+
+h2:hover{
+
+    color:black;
+}
+
+h3{
+    color:white;
+    text-align: center;
+    font-family:
+
+}
+
+h3:hover{
+    color:black;
+
+}
+
+h4{
+    color:yellowgreen;
+    text-align:center;
+
+
+}
+h4:hover{
+    color:black;
+}
+body{
+    background-color:black;
+    background-position:top center;
+}
+
+
+
+
+label{
+    color: yellowgreen;
+    font-family:'Courier New', Courier, monospace;
+    
+}
+
+label:hover{
+
+    color: black;
+}
+button:hover{
+
+    color: red;
+}
+td{
+    color:white;
+}
+th{
+    color:white;
+}
