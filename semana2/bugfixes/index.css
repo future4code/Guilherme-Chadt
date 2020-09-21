@@ -40,10 +40,12 @@ div img {
 .botao-amarelo {
     background-color: #ffaf43;
     width: 250px;
-    height: 40px;
+    height: 50px;
     border-radius: 5px;
     font-size: 20px;
     color: white;
+    margin: 150px;
+    
 }
 
 .botao-amarelo:hover {
@@ -123,7 +125,7 @@ td button {
     border-radius: 5px;
     font-size: 10px;
     color: black;
-    
+
 }
 
 #back-button:hover {
