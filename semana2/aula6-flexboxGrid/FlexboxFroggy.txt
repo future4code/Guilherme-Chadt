@@ -1,0 +1,106 @@
+﻿                                  FLEXBOX FROGGY
+
+NÍVEL 1
+
+Justify-content: flex-end;
+
+NÍVEL 2
+
+justify-content: center;
+
+NÍVEL 3
+
+justify-content: space-around;
+
+NÍVEL 4
+
+justify-content: space-between;
+
+NÍVEL 5
+
+align-items: flex-end;
+
+NÍVEL 6
+
+justify-content: center; align-items: center;
+
+NÍVEL 7
+
+justify-content: space-around; align-items: flex-end;
+
+NÍVEL 8
+
+flex-direction: row-reverse;
+
+NÍVEL 9
+
+flex-direction: column;
+
+NÍVEL 10
+
+flex-direction: row-reverse; justify-content: flex-end; 
+
+NÍVEL 11
+
+flex-direction: column; justify-content: flex-end;
+
+NÍVEL 12
+
+flex-direction: column-reverse; justify-content: space-between;
+
+NÍVEL 13
+
+flex-direction: row-reverse; justify-content: center; align-items: flex-end;
+
+NÍVEL 14
+
+order: 2;
+
+Nível 15
+
+order: -1;
+
+NÍVEL 16
+
+align-self: flex-end;
+
+NÍVEL 17
+
+order: 2; align-self: flex-end;
+
+NÍVEL 18
+
+flex-wrap: wrap;
+
+NÍVEL 19
+
+flex-direction: column; flex-wrap: wrap;
+
+NÍVEL 20
+
+flex-direction: column; flex-wrap: wrap;
+
+NÍVEL 21
+
+align-content: flex-start;
+
+NÍVEL 21
+
+align-content: flex-end;
+
+NÍVEL 22
+
+align-content: flex-end;
+
+NÍVEL 23
+
+flex-direction: column-reverse; align-content: center;
+
+NÍVEL 24
+
+
+
+
+
+
+
