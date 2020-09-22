@@ -1,0 +1,85 @@
+﻿
+ GRID GARDEN
+
+NÍVEL 1
+
+grid-column-start: 3;
+
+NÍVEL 2
+
+grid-column-start: 5;
+
+NÍVEL 3
+
+grid-column-end: 4;
+
+NÍVEL 4
+
+grid-column-end: -5:
+
+NÍVEL 5
+
+grid-column-end: 5;
+
+NÍVEL 6
+
+grid-column-start: -3;
+
+NÍVEL 7
+
+grid-column-end:  span 2;
+
+NÍVEL 8
+
+grid-column-end: span 5;
+
+NÍVEL 9
+
+grid-column-start: span 3;
+
+NÍVEL 10
+
+grid-column: 4 / 6
+
+NÍVEL 11
+
+grid-column: span 3 / 5
+
+NÍVEL 12
+
+grid-row-start: 3;
+
+NÍVEL 13
+
+grid-row: span 3 / 6
+
+NÍVEL 14
+
+grid-column: 2; grid-row: 5;
+
+NÍVEL 15
+
+grid-column: 2/6; grid-row: 1/6;
+
+NÍVEL 16
+
+grid-column: 2/6; grid-row: 1/4;
+
+NÍVEL 17
+
+grid-area: 2/3/5/6;
+
+NÍVEL 18
+
+order: 2;
+
+NÍVEL 19
+
+order: -4;
+
+NÍVEL 20
+
+grid-template-columns: 50% 50%;
+
+NÍVEL 21
+
