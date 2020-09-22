@@ -1,0 +1,153 @@
+body{
+     background:burlywood
+     
+    }
+
+
+a{
+    color:white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    display:inline-block;
+    text-decoration:none;
+    margin:30px;
+    
+    
+}
+
+a:hover{
+    color:red;
+}
+hr{
+   border-color:white;
+    margin: 80px 10px;
+
+}
+.aA{
+    text-align: center;
+    background-color:black;
+
+
+}
+
+.aO{
+
+    text-align:center;
+   
+} 
+    
+  
+.a1{
+    text-align: center;
+;
+
+}
+
+.a2{
+    text-align: center;
+}
+
+.a3{
+    text-align: center;
+}
+
+.a4{
+    text-align: center;
+
+}
+
+.a5{
+    text-align: center;
+
+}
+
+.a6{ 
+
+    text-align: center;
+    
+    
+}
+
+h1{
+    color:white;
+    text-align:center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    margin: 100px;
+}
+
+h1:hover{
+    color: black;
+
+}
+
+
+h3{
+    color: white;
+}
+
+h6{
+    color: white;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+}
+
+.bio{
+    color:white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin: 150PX;
+
+}
+
+.linkprojetos{
+    text-align: center;
+    background-color: black;
+
+}
+
+.form{
+    text-align: center;
+}
+ .nome{
+     text-align: center;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     color:white ;
+ }
+
+ .email{
+
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white ;
+ }
+
+ .texto{
+
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white ;
+ }
+ .button{
+    text-align: center;
+    
+ }
+
+ button:hover{
+     color: red;
+ }
+
+ .habilidades{
+
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white ;
+    font-size: 20px;
+
+ }
+
+ habilidades:hover{
+     color: red;
+ }
