@@ -1,0 +1,40 @@
+
+
+
+    header{
+    background-color: tomato;
+    
+}
+
+h1{
+    color: white;
+    text-align: center;
+    
+    
+}
+h4{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+button{
+
+ width: 177px;
+ height: 22px;
+ display: block;
+ cursor: pointer;
+ float: center;
+ 
+}
+
+button:hover{
+    color: white;
+   
+}
+
+input{
+    text-align: center;
+    float: center;
+    margin-top: 50px;
+    
+}
+
+
