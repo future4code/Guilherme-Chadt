@@ -30,7 +30,7 @@ alert("Olá!!", nome)
 
 //Idade
 idade = prompt("Qual sua idade?")
-console.log("Olá", nome, "você tem", idade ,"anos")
+console.log("Olá", nome, "você tem", idade ,"anos.")
 
 //Endereço
 let endereco 
@@ -65,17 +65,26 @@ console.log(comidasfavoritas)
 
 console.log("Essas são minhas comidas favoritas:",comidasfavoritas[0],comidasfavoritas[1],
 comidasfavoritas[2],
+comidasfavoritas[3],
 comidasfavoritas[4])
 
 //Perguntando ao usuário
- comidasfavoritas = prompt("Qual sua comida favorita?")
+ prompt("Qual sua comida favorita?")
 
+console.log(comidasfavoritas -[1] + [])
 console.log(comidasfavoritas)
 
 //Perguntas
 
-let perguntas = ["Qual cor da sua roupa no momento?","Qual a cor dos seus olhos?","Você está de bom humor?"]
-console.log(perguntas)
+let perguntas = ["Sua roupa é azul no momento?" , " Seus olhos são da cor preta?", "Você está de bom humor?" ]
+
+let respostas = [false, true, false]
+console.log(perguntas[0], respostas[0])
+console.log(perguntas[1], respostas[1])
+console.log(perguntas[2], respostas[2])
+
+
+
 
 
 
