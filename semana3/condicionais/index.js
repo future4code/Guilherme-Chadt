@@ -52,7 +52,7 @@ switch(turno){
                 break
 }
 
-//Exercício 7
+/*Exercício 7
 
 
 const genero = prompt("Qual o gênero do filme que vocês irão assistir? ")
@@ -61,9 +61,33 @@ const preco = prompt("Qual o preço do ingresso?")
 if(genero === "fantasia" && preco <= 15 ){
     console.log("Bom filme!")
 }else{
-    console.log("Escolha outro filme =´(")
-}
+    console.log("Escolha outro filme =(")
+}*/
 
+/*Desafio 1
+
+const genero = prompt("Qual o gênero do filme que vocês irão assistir? ")
+const preco = prompt("Qual o preço do ingresso?")
+let snack = prompt("Qual snack vc vai comprar?",)
+
+if(genero === "fantasia" && preco <= 15  ){
+    console.log("Bom filme! com", snack)
+    
+}else{
+    console.log("Escolha outro filme =(")
+}
+*/
+
+/*Desafio 2
+
+const nome = prompt("Qual seu nome?")
+const tipoDeJogo = prompt("Qual tipo de jogo ? IN indica internacional e DO indica doméstico ")
+const etapaDoJogo = prompt("Escolha uma opção: (SF) semi-final, (DT) terceiro lugar, (FI) final")
+const categoria = Number(prompt("Qual a categoria? 1 a 4 "))
+const quantidadeIngressos = Number(prompt("Quantos ingressos você quer comprar?"))
+
+let informações = prompt("Nome do cliente:", nome, "Tipo de jogo:", tipoDeJogo, "Etapa do jogo:", etapaDoJogo, "Quantidade de ingressos:",  quantidadeIngressos,)
+*/
 
 
  
