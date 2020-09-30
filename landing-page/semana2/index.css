@@ -1,0 +1,28 @@
+img{
+    width: 10%;
+    padding-left: 40%;
+    margin: 5%;
+}
+ a{
+     padding-left:8%;
+     align-content: flex-end;
+     text-decoration: none;
+     color: rgb(136, 20, 20);
+     font-family: fantasy;
+     
+ }
+
+ a:hover{
+     color: white;
+ }
+
+ footer {
+    position: absolute;
+    bottom:0;
+    width:90%;
+    margin-left: 20px;
+    padding: 10%;
+
+}  
+
+
